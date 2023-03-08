@@ -1,0 +1,66 @@
+
+ /*Esto es un hoja de stilo para el ejercicio Nº7 de la asignatura Lenguage de Marcas 
+   impartida por  José Carlos Azorín en el I.E.S Pere Maria Orts Benidorm, 03 Nobiembre 2020  */
+
+/* Aprendiendo HTML5 y CSS... */
+
+body {
+    background-color: orange;
+}
+
+#cajagrande {
+    background-color: pink;
+    padding: 20px;
+}
+
+#arriba {
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    font-family: Verdana;
+}
+
+h1 {
+    color: blue;
+}
+
+.importante {
+    color: red;
+}
+
+img {
+    height: 150px;
+	width: 250px;
+}
+
+#centro {
+    background-color: grey;
+}
+
+p::first-letter {
+    font-size: 30px;
+}
+
+#abajo {
+    background-color: yellow;
+    border-style: dotted;
+    border-width: 3px; 
+    width: 50%;
+    padding-bottom: 15px;
+}
+
+table {
+    margin: auto;
+    background-color: black;
+    color: white;
+}
+
+a:link{
+	color: blue;
+	text-decoration-line: none;
+}
+a:hover {
+	color: green;
+	text-decoration-line: underline;
+}
