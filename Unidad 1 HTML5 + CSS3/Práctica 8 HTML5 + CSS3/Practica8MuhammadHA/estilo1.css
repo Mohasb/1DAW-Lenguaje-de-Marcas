@@ -1,0 +1,11 @@
+#mew {
+    background-color: pink;
+    height: 250px;
+    width: 250px;
+}
+
+.charifoto{
+    position: relative;
+    top: 200px;
+    left: 250px;
+}

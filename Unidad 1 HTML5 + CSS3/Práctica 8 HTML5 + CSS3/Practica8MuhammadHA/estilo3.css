@@ -1,0 +1,12 @@
+#mew{
+    height: 250px;
+    width: 250px;
+    background-color: pink;
+}
+
+.fotomew {
+
+position: relative;
+top: 50px;
+left: 50px;
+}
