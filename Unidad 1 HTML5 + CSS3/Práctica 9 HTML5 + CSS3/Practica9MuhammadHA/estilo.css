@@ -1,0 +1,36 @@
+.foto1 {
+    height: 200px;
+    width: 200px;
+    border-style: inset;
+    border-bottom: none;
+    border-right: none;
+    float: left;
+    margin-right: 20px;
+}
+
+p::first-letter {
+    font-size: 30px;
+}
+
+#caja {
+    height: 240px;
+    width: 340px;
+    background-color: brown;
+    float: right;
+    border: solid black;
+    margin-left: 20px;
+    align-items: center;
+}
+
+.foto2 {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    height: 200px;
+    width: 300px;
+    border: double 10px;
+}
+
+p {
+    text-align: justify;
+}
